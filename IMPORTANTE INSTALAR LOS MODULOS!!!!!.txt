@@ -1,0 +1,6 @@
+----------ANTES DE EMPEZAR-------------
+instalar los modulos mediante cmd o terminal "COPIANDO LAS SIGUIENTES SINTAXIS":
+
+--------------------------------------------------------- 
+npm install --save socket.io
+npm install --save express
